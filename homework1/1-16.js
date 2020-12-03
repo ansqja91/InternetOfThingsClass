@@ -1,8 +1,3 @@
-var target = {
-  name: 'test',
-  gender: 'test',
-};
-
 var copyObjectDeep = function(target) {
   var result = {};
   if (typeof target === 'object' && target !== null) {
@@ -14,5 +9,3 @@ var copyObjectDeep = function(target) {
   }
   return result;
 };
-
-console.log(copyObjectDeep(test));
