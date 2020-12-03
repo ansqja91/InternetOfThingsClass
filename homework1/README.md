@@ -69,4 +69,8 @@ copyObject를 이용한 객체 복사<br/>
 
 ## 1-18
 JSON을 활용한 간단한 깊은 복사<br/>
-![1-17](./log-image/1-17.png)
+![1-18](./log-image/1-18.png)
+
+## 1-19
+자동으로 undefined를 부여하는 경우<br/>
+![1-19](./log-image/1-19.png)
