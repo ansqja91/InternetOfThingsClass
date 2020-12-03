@@ -1,88 +1,16 @@
 # Internet of Things Homwork #1
 
-## 1-1
-변수 선언
+## Directory and file list
 
-## 1-2
-변수 선언, 데이터 할당<br/>
-![1-2](./log-image/1-2.PNG)
-
-## 1-3
-데이터 할당 및 변환에 대한 메모리 영역의 변화<br/>
-![1-3](./log-image/1-3.PNG)
-
-## 1-4
-참조형 데이터의 프로퍼티 할당<br/>
-![1-4](./log-image/1-4.PNG)
-
-## 1-5
-참조형 데이터의 프로퍼티 재할당<br/>
-![1-5](./log-image/1-5.PNG)
-
-## 1-6
-중첩된 참조형 데이터(객체)의 프로퍼티 할당<br/>
-![1-6](./log-image/1-6.PNG)
-
-## 1-7
-변수 복사<br/>
-![1-7](./log-image/1-7.PNG)
-
-## 1-8
-변수 복사 이후 값 변경 결과 비교(1) - 객체의 프로퍼티 변경 시<br/>
-![1-8](./log-image/1-8.PNG)
-
-## 1-9
-변수 복사 이후 값 변경 결과 비교(2) - 객체의 프로퍼티 변경 시<br/>
-![1-9](./log-image/1-9.PNG)
-
-## 1-10
-객체의 가변성에 따른 문제점<br/>
-![1-10](./log-image/1-10.PNG)
-
-## 1-11
-객체의 가변성에 따른 문제점 해결방법<br/>
-![1-11](./log-image/1-11.PNG)
-
-## 1-12
-기존 정보를 복사해서 새로운 객체를 반환하는 함수(얕은 복사)<br/>
-![1-12](./log-image/1-12.PNG)
-
-## 1-13
-copyObject를 이용한 객체 복사<br/>
-![1-13](./log-image/1-13.PNG)
-
-## 1-14
-중첩된 객체에 대한 얕은 복사<br/>
-![1-14](./log-image/1-14.PNG)
-
-## 1-15
-중첩된 객체에 대한 얕은 복사<br/>
-![1-15](./log-image/1-15.PNG)
-
-## 1-16
-객체의 깊은 복사를 수행하는 범용함수<br/>
-![1-16](./log-image/1-16.PNG)
-
-## 1-17
-객체의 깊은 복사<br/>
-![1-17](./log-image/1-17.PNG)
-
-## 1-18
-JSON을 활용한 간단한 깊은 복사<br/>
-![1-18](./log-image/1-18.PNG)
-
-## 1-19
-자동으로 undefined를 부여하는 경우<br/>
-![1-19](./log-image/1-19.PNG)
-
-## 1-20
-undefined와 배열<br/>
-![1-20](./log-image/1-20.PNG)
-
-## 1-21
-undefined와 배열<br/>
-![1-21](./log-image/1-21.PNG)
-
-## 1-22
-undefined와 null의 비교<br/>
-![1-22](./log-image/1-22.PNG)
+### chapter-1
+- ch1 README file
+- 예제 별 js code file
+- 예제 별 image
+### chapter-2
+- ch2 README file
+- 예제 별 js code file
+- 예제 별 image
+### chapter-3
+- ch3 README file
+- 예제 별 js code file
+- 예제 별 image
