@@ -78,3 +78,7 @@ JSON을 활용한 간단한 깊은 복사<br/>
 ## 1-20
 undefined와 배열<br/>
 ![1-20](./log-image/1-20.png)
+
+## 1-21
+undefined와 배열<br/>
+![1-21](./log-image/1-21.png)
