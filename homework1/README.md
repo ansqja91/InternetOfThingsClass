@@ -82,3 +82,7 @@ undefined와 배열<br/>
 ## 1-21
 undefined와 배열<br/>
 ![1-21](./log-image/1-21.png)
+
+## 1-22
+undefined와 null의 비교<br/>
+![1-22](./log-image/1-22.png)
