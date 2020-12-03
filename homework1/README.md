@@ -1,7 +1,6 @@
 # Internet of Things Homwork #1
 
 ## Directory and file list
-
 > ### chapter-1
 > - ch1 README file
 > - 예제 별 js code file
