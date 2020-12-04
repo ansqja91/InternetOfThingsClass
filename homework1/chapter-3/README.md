@@ -69,3 +69,6 @@
 
 ### 3-23 Math.max / Math.min에 apply 적용
 ![3-23](./image/3-23.PNG)
+
+### 3-24 ES6 spread operator 적용
+![3-24](./image/3-24.PNG)
