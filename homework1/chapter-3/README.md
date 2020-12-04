@@ -72,3 +72,6 @@
 
 ### 3-24 ES6 spread operator 적용
 ![3-24](./image/3-24.PNG)
+
+### 3-25 bind 메서드
+![3-25](./image/3-25.PNG)
