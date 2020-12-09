@@ -42,3 +42,6 @@
 
 ### 5-11 클로저를 활용해서 객체가 아닌 함수로 만들고, 필요한 멤버만을 return
 ![5-11](./image/5-11.PNG)
+
+### 5-12 return publicMembers 및 Object.freeze
+![5-12](./image/5-12.PNG)
