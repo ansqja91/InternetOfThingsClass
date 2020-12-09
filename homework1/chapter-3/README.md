@@ -93,3 +93,6 @@
 
 ### 3-30 별도의 인자로 this를 받은 경우 (callback 함수 내에서의 this)
 ![3-30](./image/3-30.PNG)
+
+### 3-31 Array.prototype.(forEach, map, filter, some, every, find, findIndex, flatMap, from), Set.prototype.forEach, Map.prototype.forEach
+![3-31](./image/3-31.PNG)
