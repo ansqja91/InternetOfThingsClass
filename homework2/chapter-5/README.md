@@ -12,3 +12,6 @@
 
 ### 5-4 setInterval/setTimeout
 ![5-4](./image/5-4.PNG)
+
+### 5-5 eventListener
+![5-5](./image/5-5.PNG)
