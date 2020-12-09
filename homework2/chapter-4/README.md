@@ -9,3 +9,9 @@
 
 ### 4-3 Array.prototype.map
 ![4-3](./image/4-3.PNG)
+
+### 4-4 Array.prototype.map 인자 순서 변경
+![4-4](./image/4-4.PNG)
+
+### 4-5 Array.prototype.map 구현
+![4-5](./image/4-5.PNG)
