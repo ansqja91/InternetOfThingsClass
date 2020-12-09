@@ -48,3 +48,6 @@
 
 ### 4-16 비동기 작업의 동기적 표현 (Generator)
 ![4-16](./image/4-16.PNG)
+
+### 4-17 비동기 작업의 동기적 표현 (Promise + Async/Await)
+![4-17](./image/4-17.PNG)
