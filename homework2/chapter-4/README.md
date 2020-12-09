@@ -15,3 +15,9 @@
 
 ### 4-5 Array.prototype.map 구현
 ![4-5](./image/4-5.PNG)
+
+### 4-6 addEventListener
+![4-6](./image/4-6.PNG)
+
+### 4-7 메서드를 콜백 함수로 전달
+![4-7](./image/4-7.PNG)
