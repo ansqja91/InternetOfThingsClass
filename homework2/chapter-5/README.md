@@ -13,5 +13,8 @@
 ### 5-4 setInterval/setTimeout
 ![5-4](./image/5-4.PNG)
 
-### 5-5 eventListener
-![5-5](./image/5-5.PNG)
+### 5-4(1) eventListener
+![5-4(1))](./image/5-4(1).PNG)
+
+### 5-5(1) return에 의한 클로저의 메모리 해제
+![5-5(1)](./image/5-5.PNG)
