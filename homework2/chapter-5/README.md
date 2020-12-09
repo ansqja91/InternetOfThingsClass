@@ -9,3 +9,6 @@
 
 ### 5-3 외부 함수의 변수를 참조하는 내부함수
 ![5-3](./image/5-3.PNG)
+
+### 5-4 setInterval/setTimeout
+![5-4](./image/5-4.PNG)
