@@ -12,3 +12,6 @@
 
 ### 6-4 Constructor 변경 예제
 ![6-4](./image/6-4.PNG)
+
+### 6-5 다양한 Constructor 접근법 예제
+![6-5](./image/6-5.PNG)
