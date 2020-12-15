@@ -9,3 +9,6 @@
 
 ### 6-3 Constructor 프로퍼티 예제
 ![6-3](./image/6-3.PNG)
+
+### 6-4 Constructor 변경 예제
+![6-4](./image/6-4.PNG)
