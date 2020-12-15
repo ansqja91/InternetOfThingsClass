@@ -13,5 +13,5 @@ Rectangle.isRectangle = function(instance) {
 
 var rect1 = new Rectangle(3, 4);
 console.log(rect1.getArea()); // 12 (O)
-//console.log(rect1.isRectangle(rect1)); // Error (X)
+console.log(rect1.isRectangle(rect1)); // Error (X)
 console.log(Rectangle.isRectangle(rect1)); // true
