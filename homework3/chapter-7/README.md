@@ -18,3 +18,6 @@
 
 ### 7-5 Rectangl, Square class
 ![7-5](./image/7-5.PNG)
+
+### 7-6 Rectangl, Square class trans
+![7-6](./image/7-6.PNG)
