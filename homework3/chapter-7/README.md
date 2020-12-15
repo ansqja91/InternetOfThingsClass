@@ -13,5 +13,8 @@
 ### 7-3(1) Length 프로퍼티를 삭제한 경우
 ![7-3(1)](./image/7-3(1).PNG)
 
-### 7-4 Length 프로퍼티를 삭제한 경우
-![7-3(1)](./image/7-3(1).PNG)
+### 7-4 Grade.prototype에 요소를 포함하는 배열을 매칭, Length 프로퍼티를 삭제
+![7-4](./image/7-4.PNG)
+
+### 7-5 Rectangl, Square class
+![7-5](./image/7-5.PNG)
